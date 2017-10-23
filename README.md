@@ -64,10 +64,10 @@ All the above operations are securely handled using AWS VPC and S3 Transfer Acce
 
 ### Sample Screenshots
 - Sign up Page
-![Fig.3 Sign Up Form](https://user-images.githubusercontent.com/1582196/31901163-85ce5116-b7d5-11e7-8f6a-3c9086dbb26a.png)
+<br/>![Fig.3 Sign Up Form](https://user-images.githubusercontent.com/1582196/31901163-85ce5116-b7d5-11e7-8f6a-3c9086dbb26a.png)<br/>
 - Login Page
-![Fig.4 Login Form](https://user-images.githubusercontent.com/1582196/31901172-8be40122-b7d5-11e7-8fee-39bcb4c2ddd6.png)
+<br/>![Fig.4 Login Form](https://user-images.githubusercontent.com/1582196/31901172-8be40122-b7d5-11e7-8fee-39bcb4c2ddd6.png)<br/>
 - Home File with Upload File Demo
-![Fig.5 Home File with Upload File Demo](https://user-images.githubusercontent.com/1582196/31901182-91e18360-b7d5-11e7-9ba2-155e46753119.png)
+<br/>![Fig.5 Home File with Upload File Demo](https://user-images.githubusercontent.com/1582196/31901182-91e18360-b7d5-11e7-9ba2-155e46753119.png)<br/>
 - Download File
-![Fig.6 Download File](https://user-images.githubusercontent.com/1582196/31901204-9f0a70e2-b7d5-11e7-8974-0c97666c4aa6.png)
+<br/>![Fig.6 Download File](https://user-images.githubusercontent.com/1582196/31901204-9f0a70e2-b7d5-11e7-8974-0c97666c4aa6.png)<br/>
