@@ -1,0 +1,43 @@
+.no-border{
+	border:none;
+	    -webkit-box-shadow: none;
+}
+
+.form-control {
+	background-color: none;
+}
+
+.navbar-default .a{
+	color: white;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: rgba(162, 215, 154, 0.23);
+}
+
+.table td, .table th {
+    padding: .75rem;
+    vertical-align: top;
+    border-top: 1px solid #28a745;
+}
+
+.btn{
+	    border: 1px solid #007bff;
+	        padding: 4px 12px;
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: #fff;
+    background-color: #0070e0;
+}
+
+
+
+.navbar-inverse {
+    background-color: #0070e0;
+    border-color: #0070e0;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #0070e0;
+}
