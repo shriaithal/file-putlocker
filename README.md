@@ -2,12 +2,12 @@
 # FilePutlocker
 
 ### Introduction
-Project 1: File Putlocker
-University Name: http://www.sjsu.edu/
-Course: [Cloud Technologies](http://info.sjsu.edu/web-dbgen/catalog/courses/CMPE281.html)
-Professor: [Sanjay Garje](https://www.linkedin.com/in/sanjaygarje/)
-ISA: [Divyankitha Urs](https://www.linkedin.com/in/divyankithaurs/)
-Student: [Anushri Srinath Aithal](https://www.linkedin.com/in/anushri-aithal/)
+Project 1: File Putlocker</br>
+University Name: http://www.sjsu.edu/</br>
+Course: [Cloud Technologies](http://info.sjsu.edu/web-dbgen/catalog/courses/CMPE281.html)</br>
+Professor: [Sanjay Garje](https://www.linkedin.com/in/sanjaygarje/)</br>
+ISA: [Divyankitha Urs](https://www.linkedin.com/in/divyankithaurs/)</br>
+Student: [Anushri Srinath Aithal](https://www.linkedin.com/in/anushri-aithal/)</br>
 
 ### File Putlocker Introduction
 File Putlocker, is a web application hosted on AWS cloud which intends to provide Authorized users a portal to securely maintain their files on cloud. 
