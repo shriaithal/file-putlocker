@@ -14,7 +14,7 @@ Users can upload files, download the files, update the already existing files an
 <br/>
 The project illustrates the use of various AWS cloud components in developing a 3 Tier Web Application. The application manages various components to provide a highly available, scalable, cost effective solution to securely back up data on to Amazon S3. File Putlocker application leverages AWS auto scaling functionality to provide seamless experience during peak load times. The application also monitors the health of the EC2 associated with auto scale group using Cloud Watch, AWS Lambda and SNS.<br/>
 <br/>
-[The general workflow to upload, edit, download, delete file is as below](/Sample Screenshots/Workflow.png)
+[The general workflow to upload, edit, download, delete file is as below](Sample Screenshots/Workflow.png)
  
 
 Sample Demo Screenshots:
