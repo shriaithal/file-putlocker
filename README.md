@@ -5,7 +5,6 @@ Project 1: File Putlocker</br>
 University Name: http://www.sjsu.edu/</br>
 Course: [Cloud Technologies](http://info.sjsu.edu/web-dbgen/catalog/courses/CMPE281.html)</br>
 Professor: [Sanjay Garje](https://www.linkedin.com/in/sanjaygarje/)</br>
-Student: [Anushri Srinath Aithal](https://www.linkedin.com/in/anushri-aithal/)</br>
 
 ### Demo
 - [FilePutlocker Demo](https://www.youtube.com/watch?v=-Bz1zwl8ZXg)
